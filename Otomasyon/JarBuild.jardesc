@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="Otomasyon/jarx/Otomosyon.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Otomasyon/JarBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=Otomasyon/src&lt;{Giris.java[Giris" manifestLocation="/Otomasyon/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Otomasyon/.project"/>
+        <file path="/Otomasyon/jgoodies-forms-1.8.0-sources.jar"/>
+        <file path="/Otomasyon/jgoodies-common-1.8.0-sources.jar"/>
+        <javaElement handleIdentifier="=Otomasyon/src"/>
+        <javaElement handleIdentifier="=Otomasyon/png"/>
+        <file path="/Otomasyon/.classpath"/>
+        <folder path="/Otomasyon/dbConnetor"/>
+    </selectedElements>
+</jardesc>
